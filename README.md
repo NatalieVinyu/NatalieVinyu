@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalie Vinyu 
 - 👀 I’m interested in Coding and want to become a FrontEnd Developer
-- 🌱 I’m currently learning HTML, CSS and Javascript through a learning BootCamp/Workshop
+- 🌱 I’m currently learning Javascript 
 
 
 <!---
